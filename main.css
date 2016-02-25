@@ -1,0 +1,48 @@
+body
+{
+    background-color: #898b8b;
+    width: 1000px;
+    margin: 0 auto;
+
+    
+}
+
+header
+{
+    width:1000px;
+    height:135px;
+    background-image: url(img/main-header.jpg);
+}
+
+nav
+{
+    width:176px;
+    height: 500px;
+    color: white;
+    background-color: black;
+    float: left;
+    font-family:sans-serif;
+    
+}
+
+section
+{    
+    background-image: url(img/main-canvas-tile.jpg);    
+    width:824px;
+    height: 500px;
+    float: right;
+    background-repeat: repeat-y;
+    
+}
+
+footer
+{
+    background-image: url(img/main-footer.jpg);    
+    background-repeat: repeat-y;
+    width:1000px;
+    height: 24px;
+    position: relative;
+    float: left;
+    color: yellow;
+    
+}

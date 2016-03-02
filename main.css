@@ -26,12 +26,18 @@ nav
 }
 
 main
-{    
+{   
     background-image: url(img/main-canvas-tile.jpg);    
     width:824px;
     height: 500px;
     float: right;
     background-repeat: repeat-y;
+     
+}
+
+.main-section 
+{
+    padding: 0px 35px 0px 10px;
     
 }
 
@@ -40,11 +46,10 @@ footer
     background-image: url(img/main-footer.jpg);    
     background-repeat: repeat-y;
     width:1000px;
-    height: 24px;
-    position: relative;
+    height: 40px;
     float: left;
     padding-left: 200px;
-    
+    padding-top: 8px;
     color: yellow;
     
 }

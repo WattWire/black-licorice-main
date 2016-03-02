@@ -16,6 +16,8 @@ nav
 {
     width:176px;
     height: 500px;
+    font-size: .85em;
+    line-height: 1.5em;
     color: white;
     background-color: black;
     float: left;
@@ -53,10 +55,12 @@ footer
     
 }
 
-footer pre 
+footer pre
 {
     margin-top: 8px;
 }
+
+
 footer pre a 
 {
     color: yellow;
